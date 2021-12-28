@@ -1,0 +1,2 @@
+# Kmeans-Clustering
+The data for this project is about a wholesale customer dataset with the intention of segmentation where I wanted to segment clients based on their annual spending on diverse products such as milk, groceries, regions etc. I applied K-means clustering algorithm with initally random centroids and then used K-means++ clustering along with elbow curves and silhouette scores to determine the best number of clusters for this data.
